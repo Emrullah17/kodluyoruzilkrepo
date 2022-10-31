@@ -8,6 +8,7 @@ Kodluyoruz projesi kapsamında yazdığım ilk repo.İçerisinde bir adet README
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
+
 [cd kodluyoruzilkrepo
 code .](cd kodluyoruzilkrepo
 code .)
