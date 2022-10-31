@@ -4,13 +4,14 @@ Kodluyoruz projesi kapsamında yazdığım ilk repo.İçerisinde bir adet README
 ## Installatıon
 Öncelikle projeyi clonelayın (Buraya sizin reponuzdan aldığınız link gelecek).
 
-https://github.com/Emrullah17/kodluyoruzilkrepo.git
+[https://github.com/Emrullah17/kodluyoruzilkrepo.git.](https://github.com/Emrullah17/kodluyoruzilkrepo.git.)
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-cd kodluyoruzilkrepo
-code .
+[cd kodluyoruzilkrepo
+code .](cd kodluyoruzilkrepo
+code .)
 
 ## Contributing 
 
